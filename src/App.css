@@ -95,6 +95,13 @@ button {
   font-size: 1.25em;
 }
 
+.giphy {
+  position: absolute;
+  width: 200px;
+  left: 50px;
+  margin-top: 20px;
+}
+
 .gif-list a {
   display: block;
   margin: auto;
